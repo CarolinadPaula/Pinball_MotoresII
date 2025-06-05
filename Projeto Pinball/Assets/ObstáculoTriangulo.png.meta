@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Obst\xE1culoTriangulo_0": 4657118300557545826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

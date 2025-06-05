@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Obst\xE1culoRedondo_0": 8036693017827988222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
